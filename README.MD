@@ -2,6 +2,9 @@
 
 - gets specified column from specified file
 - puts column in specified output file on seporate lines
+- Oringonally writton to get album names from csv file with album name being third entry.
+- returns 1 on full program exucution
+- returns negitive on failure
 
 ## Building:
 

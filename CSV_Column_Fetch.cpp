@@ -1,13 +1,19 @@
 /*
-Carter Hertter
-Augest 10, 2026
+CSV Column Fetcher
+Copyright (C) 2026  Carter Hertter (cartatetor)
 
-Oringonally writton to get album names from csv file 
-with album name being third entry.
-Can theroetically parse any plain text csv file
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-returns 1 on full program exicution
-returns negitive on failure
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include <iostream>
